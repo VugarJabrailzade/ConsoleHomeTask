@@ -1,0 +1,15 @@
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\bin\Debug\net6.0\ConsoleTask.exe
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\bin\Debug\net6.0\ConsoleTask.deps.json
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\bin\Debug\net6.0\ConsoleTask.runtimeconfig.json
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\bin\Debug\net6.0\ConsoleTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\bin\Debug\net6.0\ConsoleTask.pdb
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.csproj.AssemblyReference.cache
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.AssemblyInfoInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.AssemblyInfo.cs
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.csproj.CoreCompileInputs.cache
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\refint\ConsoleTask.dll
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.pdb
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ConsoleTask.genruntimeconfig.cache
+C:\Users\vcebr\OneDrive\Desktop\Practise Visual\ConsoleTask\ConsoleTask\obj\Debug\net6.0\ref\ConsoleTask.dll
